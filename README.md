@@ -1,5 +1,9 @@
 # Unreal_Essential_Materials_UE5
  
+PLEASE NOTE: This is not production ready and has some issues that need to be fixed. E.g. Unreal Engine no longer supports displacement - so the displacement material is broken. This is an initial repo just to get started and I will make the fixes asap. Thanks!
+
+---------------------------------------
+
 This Unreal Engine Project contains a selection of Materials and Material Functions that can be used for most if not all surfaces.
 
 I've been building this collection as I go along making and creating new materials so it will be further updated and improved. My aim for this material set is not to create specific material types, such as sandstone or flint, but to create base templates that can be used to create any specific materials (although what defines this can be a grey line at times!).
