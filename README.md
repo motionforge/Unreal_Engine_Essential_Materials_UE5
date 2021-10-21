@@ -19,8 +19,11 @@ https://3dtextures.me/
 List of Materials:
 
 Simple.
+
 Simple Blend with two '3 vector' nodes.
+
 Standard - A little more advanced with Colour/Rough/Normal and a switch for using a diffuse texture or just a base colour.
+
 Bump - Standard material with a height map.
 Parralax Occulation - A more advanced height map material. Similar to bump, better look, but more demanding of system resources.
 Displacement - Displaces the mesh.
