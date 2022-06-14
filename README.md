@@ -1,8 +1,4 @@
 # Unreal Engine Essential Materials UE5
- 
-PLEASE NOTE: This is not production ready and has some minor issues that need to be fixed. E.g. Unreal Engine 5 no longer supports displacement - so the displacement material is broken. But nearly all other materials are working correctly. This is an initial repo just to get started and I will make the fixes asap. I also need to update the screen shots - Thanks!
-
----------------------------------------
 
 This Unreal Engine Project contains a selection of Materials and Material Functions that can be used for most if not all surfaces.
 
