@@ -30,12 +30,13 @@ https://3dtextures.me/
 * Distorted Glass
 * Water
 * Slimy Water
+* Fog
 * Carbon Fibre
 * Clear Coat
 * Clear Coat - No Bottom
 * Parameter collection example
 * Curtain wind animation material - Doesn't just have to be a curtain - but best with cloth and flexible meshes.
-* Ground
+* Simple Landscape material
 * Master Material - Most of the materials here can be made from this material if required.
 * Vertex Painted Material
 * Vertex Puddle painting Material.
@@ -45,6 +46,7 @@ https://3dtextures.me/
 * A simple Landscape material with 5 layers for painting. 
 * Light Function material
 * Sky Material for Sky Box/Sphere
+* World Aligned Material
 
 
 ![](https://github.com/motionforge/Unreal_Engine_Essential_Materials_UE5/blob/main/ScreenShots/Materials%201.png)
