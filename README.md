@@ -47,6 +47,7 @@ https://3dtextures.me/
 * Light Function material
 * Sky Material for Sky Box/Sphere
 * World Aligned Material
+* Masked Material.
 
 
 ![](https://github.com/motionforge/Unreal_Engine_Essential_Materials_UE5/blob/main/ScreenShots/Materials%201.png)
