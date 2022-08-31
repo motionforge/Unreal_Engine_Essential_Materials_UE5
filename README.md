@@ -35,19 +35,19 @@ https://3dtextures.me/
 * Clear Coat
 * Clear Coat - No Bottom
 * Parameter collection example
-* Curtain wind animation material - Doesn't just have to be a curtain - but best with cloth and flexible meshes.
+* Curtain/cloth wind animation material.
 * Simple Landscape material
-* Master Material - Most of the materials here can be made from this material if required.
+* Master Material - Most of the materials here can be made from this material.
+* Masked Material.
 * Vertex Painted Material
 * Vertex Puddle painting Material.
 * Material Functions Example
 * Masked and two sided foliage material
-* Wheat Field with noise texture to create a wind effect (this uses a photo I got from pixabay - the effect can be improved by using high quality textures from megascans or another library)
 * A simple Landscape material with 5 layers for painting. 
 * Light Function material
 * Sky Material for Sky Box/Sphere
 * World Aligned Material
-* Masked Material.
+* Wheat Field with noise texture to create a wind effect (this uses a photo I got from pixabay - the effect can be improved by using high quality textures from megascans or another library)
 
 
 ![](https://github.com/motionforge/Unreal_Engine_Essential_Materials_UE5/blob/main/ScreenShots/Materials%201.png)
