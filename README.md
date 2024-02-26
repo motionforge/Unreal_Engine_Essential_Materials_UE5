@@ -28,6 +28,7 @@ https://3dtextures.me/
 * Glass
 * Frosted Glass
 * Distorted Glass
+* Depth Fade
 * Water
 * Slimy Water
 * Fog
