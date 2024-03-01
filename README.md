@@ -9,8 +9,11 @@ Please do contribute (fork) if you can see where improvements or new additions c
 It comes with a set of textures that are all in creative commons and downloaded from:
 
 https://polyhaven.com
+
 https://publicdomaintextures.com/elementor-112/
+
 https://3dtextures.me/
+
 https://www.deviantart.com/ivycomb/art/100-Royalty-Free-Stars-Texture-522155007
 
 Moon landscape height map was created by me and is provided with the project files under the same license. 
