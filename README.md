@@ -8,9 +8,12 @@ Please do contribute (fork) if you can see where improvements or new additions c
 
 It comes with a set of textures that are all in creative commons and downloaded from:
 
+https://polyhaven.com
 https://publicdomaintextures.com/elementor-112/
-
 https://3dtextures.me/
+https://www.deviantart.com/ivycomb/art/100-Royalty-Free-Stars-Texture-522155007
+
+Moon landscape height map was created by me and is provided with the project files under the same license. 
 
 **List of Materials:**
 
@@ -44,7 +47,8 @@ https://3dtextures.me/
 * Vertex Puddle painting Material.
 * Material Functions Example
 * Masked and two sided foliage material
-* A simple Landscape material with 5 layers for painting. 
+* Landscape material with 5 layers for painting.
+* Landscape material with non tiling (scale textures at distance). Example shown using moon landscape. 
 * Light Function material
 * Sky Material for Sky Box/Sphere
 * World Aligned Material
@@ -58,3 +62,6 @@ https://3dtextures.me/
 ![](https://github.com/motionforge/Unreal_Engine_Essential_Materials_UE5/blob/main/ScreenShots/Materials2.png)
 ![](https://github.com/motionforge/Unreal_Engine_Essential_Materials_UE5/blob/main/ScreenShots/Landscape.png)
 ![](https://github.com/motionforge/Unreal_Engine_Essential_Materials_UE5/blob/main/ScreenShots/Materials%203.jpg)
+![](https://github.com/motionforge/Unreal_Engine_Essential_Materials_UE5/blob/main/ScreenShots/Moon_Example.png)
+![](https://github.com/motionforge/Unreal_Engine_Essential_Materials_UE5/blob/main/ScreenShots/Moon_Example_2.png)
+
