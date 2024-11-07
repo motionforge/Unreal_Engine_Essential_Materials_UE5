@@ -45,23 +45,7 @@
 			"Enabled": true
 		},
 		{
-			"Name": "VirtualProductionUtilities",
-			"Enabled": true
-		},
-		{
-			"Name": "VirtualCamera",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Linux"
-			]
-		},
-		{
 			"Name": "LiveLink",
-			"Enabled": true
-		},
-		{
-			"Name": "Composure",
 			"Enabled": true
 		},
 		{
@@ -75,14 +59,6 @@
 		{
 			"Name": "RemoteControl",
 			"Enabled": true
-		},
-		{
-			"Name": "nDisplay",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Linux"
-			]
 		},
 		{
 			"Name": "AjaMedia",
