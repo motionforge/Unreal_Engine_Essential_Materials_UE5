@@ -13,22 +13,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "OculusVR",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Android"
-			]
-		},
-		{
-			"Name": "SteamVR",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Linux"
-			]
-		},
-		{
 			"Name": "PythonScriptPlugin",
 			"Enabled": true
 		},
@@ -38,14 +22,6 @@
 		},
 		{
 			"Name": "SequencerScripting",
-			"Enabled": true
-		},
-		{
-			"Name": "Takes",
-			"Enabled": true
-		},
-		{
-			"Name": "LiveLink",
 			"Enabled": true
 		},
 		{
@@ -78,35 +54,10 @@
 			]
 		},
 		{
-			"Name": "AppleProResMedia",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64"
-			]
-		},
-		{
 			"Name": "HAPMedia",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
 				"Win64"
-			]
-		},
-		{
-			"Name": "AppleARKit",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"IOS",
-				"Win64",
-				"Mac"
-			]
-		},
-		{
-			"Name": "AppleARKitFaceSupport",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"IOS",
-				"Win64",
-				"Mac"
 			]
 		},
 		{
@@ -133,6 +84,18 @@
 				"Mac",
 				"Linux"
 			]
+		},
+		{
+			"Name": "GraphNUnrealPlugin",
+			"Enabled": false
+		},
+		{
+			"Name": "ChaosClothEditor",
+			"Enabled": false
+		},
+		{
+			"Name": "ChaosCloth",
+			"Enabled": false
 		}
 	]
 }
