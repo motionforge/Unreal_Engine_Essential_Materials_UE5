@@ -39,7 +39,6 @@
 		{
 			"Name": "AjaMedia",
 			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/91088fb17fb04b6b9eda41aaf8fda21e",
 			"SupportedTargetPlatforms": [
 				"Win64"
 			]
@@ -47,7 +46,6 @@
 		{
 			"Name": "BlackmagicMedia",
 			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/433d28bdfb764ec5b2e60c4f45d5cb5c",
 			"SupportedTargetPlatforms": [
 				"Win64",
 				"Linux"
@@ -59,10 +57,6 @@
 			"SupportedTargetPlatforms": [
 				"Win64"
 			]
-		},
-		{
-			"Name": "PixelStreaming",
-			"Enabled": true
 		},
 		{
 			"Name": "TimecodeSynchronizer",
@@ -78,12 +72,7 @@
 		},
 		{
 			"Name": "Bridge",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Mac",
-				"Linux"
-			]
+			"Enabled": true
 		},
 		{
 			"Name": "GraphNUnrealPlugin",
@@ -95,6 +84,10 @@
 		},
 		{
 			"Name": "ChaosCloth",
+			"Enabled": false
+		},
+		{
+			"Name": "Cargo",
 			"Enabled": false
 		}
 	]
